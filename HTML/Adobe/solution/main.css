@@ -1,0 +1,67 @@
+
+.top{
+    margin-left:auto;
+    margin-right:auto;
+    background: white;
+    padding:7px;
+}
+.main_header{
+    padding:14px;
+    background:green;
+}
+.mini_header{
+    margin-left:inherit;
+    height:20px;
+    width:20px;
+    background:red;
+}
+
+.top1{
+    margin-left:auto;
+    margin-right:auto;
+    background:white;
+    padding:7px;
+}
+.mini_header1{
+    margin-left:inherit;
+    height:20px;
+    width:20px;
+    background:red;
+}
+.second_header{
+    padding:14px;
+    background:green;
+}
+.top2{
+    margin-left:auto;
+    margin-right:auto;
+    background:white;
+    padding:7px;
+}
+
+.third_header{
+    padding:40px;
+    background:green;
+}
+.top3{
+    margin-left:auto;
+    margin-right:auto;
+    background:white;
+    padding:7px;
+}
+
+.fourth_header{
+    padding:70px;
+    background:green;
+}
+.top4{
+    margin-left:auto;
+    margin-right:auto;
+    background:white;
+    padding:7px;
+}
+
+.fifth_header{
+    padding:200px;
+    background:green;
+}
